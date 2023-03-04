@@ -47,9 +47,10 @@
 
 ## 실행 화면
 - 로그인 페이지
-    - ![login](https://user-images.githubusercontent.com/30901178/222891856-9b6833ec-d093-452b-8ebe-2d31ac5d89d3.png)
+    ![login](https://user-images.githubusercontent.com/30901178/222891856-9b6833ec-d093-452b-8ebe-2d31ac5d89d3.png)
 - 파일 목록 페이지
-    - ![files](https://user-images.githubusercontent.com/30901178/222891876-d88f0054-d227-4fab-8341-242232ded8ea.png)
+    ![files](https://user-images.githubusercontent.com/30901178/222891876-d88f0054-d227-4fab-8341-242232ded8ea.png)
+
 ## 주의사항
 - key 파일은 git에 올리지 않음.
     - key 파일은 /key 디렉토리에 위치.
