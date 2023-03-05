@@ -1,4 +1,6 @@
 # IVIS NAS External Web Server
+[![ko](https://img.shields.io/badge/lang-ko-red.svg)](https://github.com/picel/IVIS_NAS_Helper/blob/main/README.md)
+[![ja](https://img.shields.io/badge/lang-ja-blue.svg)](https://github.com/picel/IVIS_NAS_Helper/blob/main/README.jp.md)
 
 ## 개요
 - IVIS Lab 외부망에서 동작하는 웹서버.
