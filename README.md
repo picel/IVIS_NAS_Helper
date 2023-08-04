@@ -1,10 +1,11 @@
 # IVIS NAS External Web Server
-[![ko](https://img.shields.io/badge/lang-ko-red.svg)](https://github.com/picel/IVIS_NAS_Helper/blob/main/README.md)
-[![ja](https://img.shields.io/badge/lang-ja-blue.svg)](https://github.com/picel/IVIS_NAS_Helper/blob/main/README.jp.md)
 
 ## 개요
 - IVIS Lab 외부망에서 동작하는 웹서버.
 - 외부망에서 NAS에 접근하기 위한 UI를 제공.
+
+## 전체 시스템 개략도
+![ivis_eco](https://github.com/picel/IVIS_NAS/assets/30901178/224966f4-e613-4da7-90ec-5175e1b2a07e)
 
 ## 개발환경
 - Go
@@ -49,7 +50,7 @@
 
 ## 실행 화면
 - 로그인 페이지
-    ![login](https://user-images.githubusercontent.com/30901178/222891856-9b6833ec-d093-452b-8ebe-2d31ac5d89d3.png)
+    ![login](https://github.com/picel/IVIS_NAS/assets/30901178/ef895020-1b1f-4db2-a1e7-78062bd6c380)
 - 파일 목록 페이지
     ![files](https://user-images.githubusercontent.com/30901178/222891876-d88f0054-d227-4fab-8341-242232ded8ea.png)
 
